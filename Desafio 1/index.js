@@ -1,6 +1,6 @@
-var hero = "Ana Silva";
-var xp = 15000;
-var nivel;
+var hero = "Ana Silva"
+var xp = 15000
+var nivel
 
 if(xp<1000){
     nivel= "Ferro";
@@ -34,4 +34,4 @@ if(xp<1000){
     }
 }
 
-console.log("O Herói de nome", {hero}, "está no nível", {nivel});
+console.log("O Herói de nome", {hero}, "está no nível", {nivel})
